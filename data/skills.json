@@ -11,8 +11,13 @@
     },
     {
         "image": "playwright.png",
-        "title": "Automatisation",
-        "text": "L'intégration d'outils et de frameworks avancés pour optimiser les cycles de test et renforcer leur efficacité."
+        "title": "Playwright",
+        "text": "Utilisation de Playwright pour automatiser les tests, principalement CI/CD"
+    },
+    {
+        "image": "cypress-1.svg",
+        "title": "Cypress",
+        "text": "Utilisation de Cypress pour automatiser les tests, principalement Front et parcours utilisateurs"
     },
     {
         "image": "jira.png",
@@ -22,7 +27,7 @@
     {
         "image": "test.png",
         "title": "Test",
-        "title ": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+        "text": "Tests exploratoires, unitaires, tests d’intégration, test fonctionnels, tests de performance, tests d'acceptation et tests de de sécurité"
     },
     {
         "image": "html-css.jpg",
