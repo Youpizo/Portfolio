@@ -1,0 +1,42 @@
+[
+    {
+        "image": "gestion-de-projet.png",
+        "title": "Pilotage de test",
+        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins métier"
+    },
+    {
+        "image": "strategie.png",
+        "title": "Stratégies de test",
+        "text": "Une supervision rigoureuse des stratégies de test, assurant une évaluation minutieuse à chaque étape du développement pour des livraisons de haute qualité."
+    },
+    {
+        "image": "playwright.png",
+        "title": "Automatisation",
+        "text": "L'intégration d'outils et de frameworks avancés pour optimiser les cycles de test et renforcer leur efficacité."
+    },
+    {
+        "image": "jira.png",
+        "title": "Méthodologie Agile",
+        "text": "Mise en place de test dans la méthode Scrum/Agile"
+    },
+    {
+        "image": "test.png",
+        "title": "Test",
+        "title ": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+    },
+    {
+        "image": "html-css.jpg",
+        "title": "HTML - CSS",
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
+    },
+    {
+        "image": "js.jpg",
+        "title": "javascript",
+        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
+    },
+    {
+        "image": "react.jpg",
+        "title": "React",
+        "text": "Création d’applications React, création de composants et manipulation de leur état"
+    }
+]
