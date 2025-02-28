@@ -122,6 +122,10 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 #contact p, a {
     padding-top: 1rem;
 }
+ 
+.row { 
+    width: 100%;
+}
 /* footer */
 .footer p {
     margin: 0;
