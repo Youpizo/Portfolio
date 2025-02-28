@@ -1,46 +1,46 @@
 [
     {
-        "image": "gestion-de-projet.png",
+        "image": "gestion-de-projet.webp",
         "title": "Pilotage de test",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins métier"
     },
     {
-        "image": "strategie.png",
+        "image": "strategie.webp",
         "title": "Stratégies de test",
         "text": "Une supervision rigoureuse des stratégies de test, assurant une évaluation minutieuse à chaque étape du développement pour des livraisons de haute qualité."
     },
     {
-        "image": "playwright.png",
+        "image": "playwright.webp",
         "title": "Playwright",
         "text": "Utilisation de Playwright pour automatiser les tests, principalement CI/CD"
     },
     {
-        "image": "cypress-1.svg",
+        "image": "cypress-1.webp",
         "title": "Cypress",
         "text": "Utilisation de Cypress pour automatiser les tests, principalement Front et parcours utilisateurs"
     },
     {
-        "image": "jira.png",
+        "image": "jira.webp",
         "title": "Méthodologie Agile",
         "text": "Mise en place de test dans la méthode Scrum/Agile"
     },
     {
-        "image": "test.png",
+        "image": "test.webp",
         "title": "Test",
         "text": "Tests exploratoires, unitaires, tests d’intégration, test fonctionnels, tests de performance, tests d'acceptation et tests de de sécurité"
     },
     {
-        "image": "html-css.jpg",
+        "image": "html-css.webp",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
     },
     {
-        "image": "js.jpg",
+        "image": "js.webp",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
     },
     {
-        "image": "react.jpg",
+        "image": "react.webp",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état"
     }
