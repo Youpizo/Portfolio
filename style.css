@@ -38,8 +38,6 @@
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;
-    padding-left: 10rem;
-    padding-right: 10rem;
 }
 .hero_desc {
     font-size: 2rem;
@@ -130,4 +128,42 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 .footer p {
     margin: 0;
     padding: 0;
+}
+
+@media screen and (max-width: 767px) {
+    body {
+        text-align: center;
+    }
+
+    .col-lg-4 {
+        text-align: center;
+    }
+
+    .hero-text {
+        width: 100%;
+        text-align: center;
+    }
+
+    .imageAboutPage {
+        display: block;
+        margin: 0 auto;
+        width: 70%;
+        margin-bottom: 2rem;
+    }
+
+    .contactColumn {
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .contactColumn a {
+        display: block;
+    }
+
+    .row {
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 }
